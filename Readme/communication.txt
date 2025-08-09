@@ -1,0 +1,7 @@
+Lisans
+Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için LICENSE dosyasına bakabilirsiniz.
+
+İletişim
+Her türlü soru ve öneri için:
+Mustafa Şahin - [e-posta adresin]
+LinkedIn: [LinkedIn profil linki]
